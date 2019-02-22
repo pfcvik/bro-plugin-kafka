@@ -1,0 +1,8 @@
+Apache::Kafka - Writes logs to Kafka (dynamic)
+    [Writer] KafkaWriter (Log::WRITER_KAFKAWRITER)
+    [Constant] Kafka::kafka_conf
+    [Constant] Kafka::topic_name
+    [Constant] Kafka::sensor_name
+    [Constant] Kafka::max_wait_on_shutdown
+    [Constant] Kafka::json_timestamps
+    [Constant] Kafka::debug
